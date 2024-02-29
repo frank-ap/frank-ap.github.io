@@ -75,7 +75,7 @@ html, body {
 /* Custom page CSS */
 .container {
   max-width: 800px;
-  text-align: center;
+  text-align: left;
 }
 
 .container a {
