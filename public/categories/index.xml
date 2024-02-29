@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Frank Arregger-Powell</title>
-    <link>//localhost:64632/categories/</link>
+    <link>//localhost:50852/categories/</link>
     <description>Recent content in Categories on Frank Arregger-Powell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:64632/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:50852/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>//localhost:64632/categories/syntax/</link>
+      <link>//localhost:50852/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:64632/categories/syntax/</guid>
+      <guid>//localhost:50852/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>//localhost:64632/categories/themes/</link>
+      <link>//localhost:50852/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:64632/categories/themes/</guid>
+      <guid>//localhost:50852/categories/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>//localhost:64632/categories/projects/</link>
+      <link>//localhost:50852/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>//localhost:64632/categories/projects/</guid>
+      <guid>//localhost:50852/categories/projects/</guid>
       <description></description>
     </item>
   </channel>
