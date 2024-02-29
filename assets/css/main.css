@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   background-color: #fff;
   font-family: -apple-system, BlinkMacSystemFont;
-  color: #657b83
+  color: #657b83;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #27a822;
 }
@@ -19,7 +19,7 @@ html, body {
 }
 
 #about {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 .navbar .navbar-brand,
