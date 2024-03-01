@@ -1,11 +1,11 @@
 /* Main page with stikky-footer */
 html, body {
   height: 100%;
-  background-color: #fff;
+  background-color: #FBEAEB;
   font-family: -apple-system, BlinkMacSystemFont;
   color: #657b83;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27a822;
+  border-top: 3px solid #2F3C7E;
 }
 
 /* Wrapper for page content to push down footer */
@@ -197,7 +197,7 @@ h5 a:hover {
 
 /* Footer  */
 .footer {
-  border-bottom: 5px solid #27a822;
+  border-bottom: 5px solid #2F3C7E;
   padding: 20px 0;
   text-decoration: none !important;
 }
