@@ -1,7 +1,6 @@
 ---
+title: Kia ora
 ---
-
-# Hello
 
 I'm **Frank Arregger-Powell**, a **Data Analyst** who works in **Python** and **R**.
 
