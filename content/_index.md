@@ -1,9 +1,11 @@
 ---
 ---
 
-I'm **Frank Arregger-Powell**, a **Data Analyst** who works in Python and R.
+# Hello
 
-I've moved to New Zealand and am living in Wellington and have been working in data roles for 5+ years.
+I'm **Frank Arregger-Powell**, a **Data Analyst** who works in **Python** and **R**.
+
+I've worked in data roles for 5+ years in London and have recently relocated to Wellington, New Zealand.
 
 Have a look at some of my working [projects].
 
