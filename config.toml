@@ -21,27 +21,16 @@ theme = "hugo-sustain"
 
 [params.social]
   Github        = "frank-ap"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
+  LinkedIn      = "https://www.linkedin.com/in/frank-arregger-powell-62300b121/"
 
 ## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
   weight = 200
   url = "/projects/"
 [[menu.main]]
-  name = "resume"
-  identifier = "resume"
+  name = "cv"
+  identifier = "cv"
   weight = 300
-  url = "/resume/"
+  url = "/cv/"
