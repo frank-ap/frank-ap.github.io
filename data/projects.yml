@@ -1,36 +1,21 @@
 name: Projects
 source:
-  - icon: fa fa-github
-    name: Project 1
-    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
-    url: https://github.com/nurlansu/hugo-sustain
-
-  - icon: fa fa-github
-    name: Project 2
-    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
-    url: https://github.com/nurlansu/hugo-sustain
-
-  - icon: fa fa-github
-    name: Project 3
-    description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
-    url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-globe
+    name: Full GHG Emissions Dataset
+    description: Providing modelled and reported emissions covering 13,500 companies. The dataset includes scope 1, 2 & 3 emissions as well as fuel and SHEC usage.
+    url: https://www.cdp.net/en/investor/ghg-emissions-dataset
 
   - icon: fa fa-globe
-    name: Project 4
-    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
-    url: https://github.com/nurlansu/hugo-sustain
+    name: CDP Corporate Environmental Action Tracker
+    description: Corporate Environmental Action Tracker (CEAT) is a one-of-a-kind tool that makes aggregated CDP data user friendly and accessible to all to track the state of corporate climate disclosure and action.
+    url: https://www.cdp.net/en/data/corporate-environmental-action-tracker
 
   - icon: fa fa-globe
-    name: Project 5
-    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
-    url: https://github.com/nurlansu/hugo-sustain
+    name: Scope 3 Report
+    description: Report provided to large companies to enable them to estimate their Scope 3 emissions. For each member company we asked their suppliers to complete our questionnaire and then we provide that data along with sector and activity averages where companies don't disclose. 
+    url: https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/900/original/2023_Scope_3_Report_Methodology___FAQ.pdf
 
-  - icon: fa fa-cog
-    name: Project 6
-    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
-    url: https://github.com/nurlansu/hugo-sustain
-
-  - icon: fa fa-cog
-    name: Project 7
-    description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
-    url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-github
+    name: Rent affordability in New Zealand
+    description: This project looks at average gross household income and compares this to affordable income based on average rent costs from different regions.
+    url: https://github.com/frank-ap/rent-affordability-nz
