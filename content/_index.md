@@ -8,7 +8,7 @@ I've worked in data roles for 5+ years in London and have recently relocated to 
 
 Have a look at some of my [projects].
 
-[Read my CV] for more information and contact me on [LinkedIn].
+[Read my CV] for more information or contact me on [LinkedIn].
 
 
 [projects]: /projects
