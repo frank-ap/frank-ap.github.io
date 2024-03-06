@@ -8,10 +8,10 @@
       <div class="panel">
         <div class="panel-body">
           {{ range $el := .Site.Data.projects.source }}
-            <h3>
+            <h5>
               <i class="{{ .icon }}"></i>&nbsp;&nbsp;
               <b><a href="{{ .url }}">{{ $el.name }}</a></b>&nbsp;-&nbsp;{{ $el.description }}
-            </h3>
+            </h5>
           {{ end }}
         </div>
       </div>
