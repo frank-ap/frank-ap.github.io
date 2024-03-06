@@ -10,11 +10,6 @@ source:
     description: CEAT is a one-of-a-kind tool that makes aggregated CDP data user friendly and accessible to all to track the state of corporate climate disclosure and action.
     url: https://www.cdp.net/en/data/corporate-environmental-action-tracker
 
-  - icon: fa fa-globe
-    name: CDP Scope 3 Report
-    description: Report provided to large companies to enable them to estimate their Scope 3 emissions.
-    url: https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/900/original/2023_Scope_3_Report_Methodology___FAQ.pdf
-
   - icon: fa fa-github
     name: Rent affordability in New Zealand
     description: This project looks at average gross household income and compares this to affordable income based on average rent costs from different regions.
